@@ -1,2 +1,2 @@
 # kmer-transport
-Project to implent a system for travel ticket booking
+Project to implement a system for travel ticket booking
